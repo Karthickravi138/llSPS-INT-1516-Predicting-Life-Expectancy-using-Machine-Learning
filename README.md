@@ -2,7 +2,7 @@
 
 ## URL
 
-Node-red URL: https://node-red-aqwyb.eugb.mybluemix.net/ui/#!/0?socketid=MjrMCRV9PVZTKowoAAAD
+Node-red URL: https://node-red-aqwyb.eu-gb.mybluemix.net/ui/#!/0?socketid=MjrMCRV9PVZTKowoAAAD
 
 
 Dataset : https://www.kaggle.com/kumarajarshi/life-expectancy-who?rvi=1
